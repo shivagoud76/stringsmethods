@@ -1,0 +1,14 @@
+# print(n.endswith(''))
+# print(n.endswith(' '))
+# print(n.endswith('n'))
+# v=''
+# print(v.isspace())
+# print(g.isspace())
+q="hEllo pyo1Tholno"
+print(q.index('l'))
+# print(q.index('l',4))
+# print(q.index('o'))
+# print(q.index('o',5))
+# print(q.rindex('h'))
+# print(q.index('1'))
+# print(q.index('b'))
